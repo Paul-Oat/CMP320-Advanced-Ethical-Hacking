@@ -5,14 +5,15 @@
         By Paul Oates 
 
 Welcome to NMAM a tool for network mapping and badwidth monitoring. The following libaries are required:
-
-pip install argparse
-pip install nmap
-pip install networkx
-pip install matplotlib
-pip install scapy
-pip install pyshark
-pip install twilio
+```
+        pip install argparse 
+        pip install nmap 
+        pip install networkx 
+        pip install matplotlib 
+        pip install scapy 
+        pip install pyshark 
+        pip install twilio 
+```
 
 The following programs are required 
 
@@ -28,12 +29,12 @@ python .\NMAM.py -s [Subnet Required] -m -b [bytes]
 Note -m and -b are optional
 
 Examples 
-
-python .\NMAM.py -s 192.168.1.0/24 -m -b 4096
-python .\NMAM.py -s 192.168.1.0/24  -b 4096
-python .\NMAM.py -s 192.168.1.0/24 -m
-python .\NMAM.py -h
-
+```
+        python .\NMAM.py -s 192.168.1.0/24 -m -b 4096
+        python .\NMAM.py -s 192.168.1.0/24  -b 4096
+        python .\NMAM.py -s 192.168.1.0/24 -m
+        python .\NMAM.py -h
+```
 
 help dialog 
 
