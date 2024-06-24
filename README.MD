@@ -1,10 +1,7 @@
-
-███    ██    ███    ███     █████     ███    ███ 
-████   ██    ████  ████    ██   ██    ████  ████ 
-██ ██  ██    ██ ████ ██    ███████    ██ ████ ██ 
-██  ██ ██    ██  ██  ██    ██   ██    ██  ██  ██ 
-██   ████ ██ ██      ██ ██ ██   ██ ██ ██      ██ 
-        Network      Map           And        Monitor
+![Dora](map.png)
+        
+        NMAM
+        Network Map And Monitor
         By Paul Oates 
 
 Welcome to NMAM a tool for network mapping and badwidth monitoring. The following libaries are required:
