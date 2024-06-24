@@ -36,16 +36,17 @@ Examples
         python .\NMAM.py -h
 ```
 
-help dialog 
+Help Dialog 
+```
+        usage: NMAM.py [-h] [-m] [-b BYTES] -s SUBNET
 
-usage: NMAM.py [-h] [-m] [-b BYTES] -s SUBNET
+        Network Monitoring Tool
 
-Network Monitoring Tool
-
-optional arguments:
-  -h, --help            show this help message and exit
-  -m, --map             Map the network
-  -b BYTES, --bytes BYTES
-                        Monitor data usage. limit in bytes
-  -s SUBNET, --subnet SUBNET
-                        Subnet to scan. Required
+        optional arguments:
+        -h, --help            show this help message and exit
+        -m, --map             Map the network
+        -b BYTES, --bytes BYTES
+                                Monitor data usage. limit in bytes
+        -s SUBNET, --subnet SUBNET
+                                Subnet to scan. Required
+```
